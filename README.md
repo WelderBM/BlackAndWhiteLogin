@@ -4,8 +4,8 @@
 #### Projeto que me ajudou muito a treinar meus conhecimentos no início dos estudos de #CSS!
 ### O que o site faz?
 <ul>
-  <li>É ma simples tela de login</li>
-  <li>pode receber as entradas de login e senha(escondida) sem validação e armazenamento
+  <li>É uma simples tela de login</li>
+  <li>pode receber as entradas de login e senha(escondida) sem validação e armazenamento</li>
   <li>Ao clicar em logar, uma surpresa te aguarda! ps: é animação!</li>
 </ul>
 <h3>Tecnologias usadas</h3>
