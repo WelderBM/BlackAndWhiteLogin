@@ -15,30 +15,36 @@
 </head>
 
 <body>
-    <div>
-        <img src="./triangle.svg" alt="seta-diagonal-triangulo" id="triangulo">
+    <main class="" id="Conteiner">
+        <img src="./Assets/triangle.svg" alt="seta-diagonal-triangulo" id="triangulo">
         <input type="email" name="personal-email" placeholder="username">
         <input type="password" name="personal-password" placeholder="password" class="input-password">
         <a class="forgot-password" href=""> forgot password?</a>
-        <button type="button">LogIn</button>
-        <a class="signup" href="">Don’t have an account, strong <strong>Sign Up</strong> now.</a>
+        <button onclick="goTranslate()" type="button">LogIn</button>
+        <a class="signup" href="">Don’t have an account, <strong>Sign Up</strong> now.</a>
         <p class="p"><strong>Or</strong></p>
 
         <div class="div-img">
 
             <a href="https://www.google.com.br/">
-                <img src="./google.svg" alt="google">
+                <img src="./Assets/google.svg" alt="google">
             </a>
 
             <a href="">
-            <img src="./dots.svg" alt="dots">
+            <img src="./Assets/dots.svg" alt="dots">
             </a>
 
             <a href="https://www.facebook.com/">
-            <img src="./facebook.svg" alt="facebook">
+            <img src="./Assets/facebook.svg" alt="facebook">
             </a>
         </div>
-    </div>
+    </main>
+    <script>
+        function goTranslate() {
+            const elementConteiner = document.getElementById("Conteiner")
+            elementConteiner.className = "activebutton"
+        }
+    </script>
 </body>
 
 </html>
