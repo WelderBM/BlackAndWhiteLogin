@@ -22,7 +22,7 @@
 3. [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <br>
-<a id="site" href="https://welderbm.github.io/tela-de-login-simples/">Aqui está o site</a>
+<a id="site" href="https://welderbm.github.io/BlackAndWhiteLogin/">Aqui está o site</a>
 
 <h2 id="pessoas-autoras">Pessoas autoras</h2> 
 <img alt="minha foto de perfil" src="./perfil-quadrado.JPG" width="200"/>
