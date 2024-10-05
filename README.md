@@ -3,19 +3,24 @@
   <img src="https://user-images.githubusercontent.com/92405076/150245322-9dd70366-f32e-4ce1-9fa5-adfe3456fddc.png">
 </div>
 
-### O que o site faz?
-<ul>
-  <li>É uma simples tela de login</li>
-  <li>pode receber as entradas de login e senha(escondida) sem validação e armazenamento</li>
-  <li>Ao clicar em logar, uma surpresa te aguarda! ps: é animação!</li>
-</ul>
-<h3>Tecnologias usadas</h3>
-<h4><b>frontend👓</b></h4>
-<ul>
-  <li><b>HTML</b></li>
-  <li><b>CSS</b></li>
-  <li><b>Um pouco de JavaScript</b></li>
-</ul>
+## Indice
+
+- <a href="#funcionalidades-do-projeto">funcionalidades do projeto</a>
+- <a href="#como-rodar">Como rodar este projeto</a>
+- <a href="#tecnologias-ultilizadas">Tecnologias utilizadas</a>
+- <a href="#pessoas-autoras">Pessoas autoras</a>
+
+<h2 id="funcionalidades-do-projeto">Funcionalidades</h2>
+
+- [x] É uma simples tela de login
+- [x] pode receber as entradas de login e senha(escondida) sem validação e armazenamento
+- [x] Ao clicar em logar, uma surpresa te aguarda! ps: é animação!
+  
+<h2 id="tecnologias-ultilizadas">Tecnologias utilizadas</h2> 
+
+1. [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+1. [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+2. 
 <h4><b>Destaques❕</b></h4>
 <ul>
   <li><b>responssividade implementada!</b></li>
