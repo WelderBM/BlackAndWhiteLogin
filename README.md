@@ -1,7 +1,8 @@
-# Tela de Login Simples
-![siteView](https://user-images.githubusercontent.com/92405076/150245322-9dd70366-f32e-4ce1-9fa5-adfe3456fddc.png)
->status: pronto✅
-#### Projeto que me ajudou muito a treinar meus conhecimentos no início dos estudos de #CSS!
+# Balck and White Screen
+<div align="center">
+  ![siteView](https://user-images.githubusercontent.com/92405076/150245322-9dd70366-f32e-4ce1-9fa5-adfe3456fddc.png)
+</div>
+
 ### O que o site faz?
 <ul>
   <li>É uma simples tela de login</li>
